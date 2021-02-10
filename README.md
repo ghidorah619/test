@@ -1,0 +1,3 @@
+# NOTAS
+
+Primer codigo node
